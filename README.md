@@ -9,7 +9,7 @@ Instructions:
 '.m' format.
 
 2. Import data using Matlab with space and semicolon delimiters (Matlab
-will create 1600x1 doubles labeled VarNameQ where Q = 3:4161).
+will create 1600x1 doubles labeled VarNameQ where Q = 3 -> 4161).
 
 3. Place 'RamanPLMapPlot.m' into your current Matlab directory and run
 'RamanPLMapPlot' from the command line.
